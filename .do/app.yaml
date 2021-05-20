@@ -1,8 +1,8 @@
-name: sample-php
+name: doapps-test
 services:
 - environment_slug: php
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-php
-  name: sample-php
+    repo: svk27/doapps-test
+  name: doapps-test
