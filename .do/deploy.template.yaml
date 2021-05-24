@@ -1,8 +1,0 @@
-spec:
-  name: doapps-test
-  services:
-  - environment_slug: php
-    git:
-      branch: main
-      repo_clone_url: https://github.com/svk27/doapps-test.git
-    name: doapps-test
